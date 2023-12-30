@@ -1,0 +1,35 @@
+@media screen and (max-width:868px){
+body{
+    background-color: red;
+}
+
+nav{
+    flex-direction:column;
+}
+
+.search input {
+    width: 64vw;
+  height: 4.5vw;
+  }
+
+  nav ul{
+    height:5vh;
+  }
+
+  nav ul li{
+    padding: 0vw 7.5vw;
+  }
+
+  .slider img{
+    width: 93vw;
+  margin: 0vw auto;
+  }
+
+  .slider{
+    margin-bottom: -1vw;
+  }
+
+  card-item img{
+    max-width: 100%;
+  }
+}

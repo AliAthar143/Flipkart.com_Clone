@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Oswald:wght@200&family=Pixelify+Sans&family=Playpen+Sans&display=swap');
+
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 3.5px;
+  color: blue;
+  background-color: whitesmoke;
+  /* border: 2px solid white; */
+  border-radius: 0vw;
+  cursor: pointer;
+  font-family: 'Lato', sans-serif;
+}
+
+.btn:hover{
+    font-weight: bolder;
+    background-color: lightgreen;
+}
