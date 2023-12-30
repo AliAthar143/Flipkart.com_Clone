@@ -10,8 +10,8 @@
   padding: 3.5px;
   color: blue;
   background-color: whitesmoke;
-  /* border: 2px solid white; */
-  border-radius: 0vw;
+  border: 2px solid aqua;
+  border-radius: 0.5vw;
   cursor: pointer;
   font-family: 'Lato', sans-serif;
 }
